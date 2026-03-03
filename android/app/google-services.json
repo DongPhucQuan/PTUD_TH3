@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895094096617",
+    "project_id": "lythuyet1-32b54",
+    "storage_bucket": "lythuyet1-32b54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895094096617:android:f2d999ad227684de71a678",
+        "android_client_info": {
+          "package_name": "com.quan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO1P1AZ4xs2a5NUtJ_re5X3mhDJ5Lq_qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
